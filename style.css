@@ -13,7 +13,7 @@ body
     background-image: url(./Images/bg1.jpg);
     height: 600px;
     width: 1263px;
-    background-size: contain;
+    background-size: 100%;
     background-repeat: no-repeat;
     margin-top: -30px;
     /* background-position: 200px; */
